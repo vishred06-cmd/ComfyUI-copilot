@@ -117,14 +117,14 @@ Want ComfyUI-Copilot to assist you in workflow development?
 
    ```bash
    cd ComfyUI/custom_nodes
-   git clone git@github.com:AIDC-AI/ComfyUI-Copilot.git
+   git clone git@github.com:<user-name>/ComfyUI-Copilot.git
    ```
    
    or
    
    ```bash
    cd ComfyUI/custom_nodes
-   git clone https://github.com/AIDC-AI/ComfyUI-Copilot
+   git clone https://github.com/<user-name>/ComfyUI-Copilot
    ```
 
    Secondely, in the ComfyUI custom_nodes directory, find the ComfyUI-Copilot directory and install ComfyUI-Copilot dependencies
@@ -189,6 +189,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=AIDC-AI/ComfyUI-Copilot&type=Date)](https://star-history.com/#AIDC-AI/ComfyUI-Copilot&Date)
+
 
 
 
